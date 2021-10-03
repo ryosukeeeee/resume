@@ -47,6 +47,14 @@
 
 ---
 
+### 資格
+|資格名称|取得日|
+|---|---|
+| 基本情報技術者 | 2015/10 |
+| AWS Certified Solutions Architect Associate | 2019/09 |
+| AWS Certified Solutions Architect Professional | 2021/03 |
+| LPIC-1 101 | 2021/09 |
+
 ## 職務経歴詳細
 
 ### A株式会社（2020/04〜現在）

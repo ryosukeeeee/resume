@@ -34,7 +34,12 @@
 
 ### 言語
 
-- 
+<p>
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
 
 ### フレームワーク・その他
 

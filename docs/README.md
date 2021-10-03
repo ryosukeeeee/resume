@@ -1,12 +1,15 @@
 # 職務経歴書
 
 ## 基本情報
+<!-- textlint-disable ja-technical-writing/max-kanji-continuous-len -->
 
 |key|value|
 |---|---|
 |氏名| 中川稜介（Ryosuke Nakagawa）|
 |生年月日| 1992/09/23|
 |最終学歴| 筑波大学大学院　図書館情報メディア研究科修了 |
+
+<!-- textlint-enable ja-technical-writing/max-kanji-continuous-len -->
 
 ---
 ## 各種アカウント

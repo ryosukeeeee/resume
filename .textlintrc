@@ -127,5 +127,8 @@
     "abbr-within-parentheses": true,
     "no-mixed-zenkaku-and-hankaku-alphabet": true,
     "footnote-order": true
+  },
+  "filters": {
+      "comments": true
   }
 }

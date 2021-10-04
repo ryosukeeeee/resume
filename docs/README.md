@@ -1,6 +1,7 @@
 # 職務経歴書
 
 ## 基本情報
+
 <!-- textlint-disable ja-technical-writing/max-kanji-continuous-len -->
 
 |key|value|

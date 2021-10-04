@@ -56,6 +56,7 @@
 ### 資格
 
 <!-- textlint-disable ja-technical-writing/max-kanji-continuous-len -->
+
 |資格名称|取得日|
 |---|---|
 | 基本情報技術者 | 2015/10 |

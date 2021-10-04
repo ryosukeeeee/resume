@@ -43,7 +43,12 @@
 
 ### フレームワーク・その他
 
-- 
+- [AWS](https://aws.amazon.com/jp/)
+- [Docker](https://www.docker.com/)
+- [Serverless Framework](https://www.serverless.com/)
+- [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
+- [Isabelle](https://isabelle.in.tum.de/)
+- [Coq](https://coq.inria.fr/)
 
 ---
 

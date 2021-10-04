@@ -20,6 +20,7 @@
 <a href="https://twitter.com/ryosukeeeee_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@ryosukeeeee__-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://qiita.com/ryosukeeeee" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryosukeeeee-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 <a href="https://zenn.dev/ryosukeeeee" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryosukeeeee-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://ryosukeeeee.hatenablog.com/" target="_blank"><img alt="Hatena" src="https://img.shields.io/badge/ryosukeeeee-515151.svg?&style=flat-square&logo=hatena-bookmark&logoColor=white"></a>
 </p>
 
 ---
